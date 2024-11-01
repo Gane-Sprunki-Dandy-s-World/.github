@@ -1,7 +1,7 @@
 {
-  "name": "Nintendo-Music",
-  "version": "1.0.0",
-  "description": "Nintendo Music APK For Android Download.",
+  "name": " Sprunki-Dandy's-World",
+  "version": "10.0",
+  "description": "Play Incredibox Sprunki Online - Sprunki Dandy's World Mod Game.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
